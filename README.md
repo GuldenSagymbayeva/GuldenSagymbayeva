@@ -7,4 +7,9 @@ Computer Science student at **Nazarbayev University** (Class of 2029), Astana, K
 - 🗣️ Kazakh · Russian · English
 - 🎻 Outside code: I play the prima-qobyz in the NU Orchestra
 
-📫 [LinkedIn](https://www.linkedin.com/in/gulden-sagymbayeva) · gulden.sagymbayeva@nu.edu.kz
+### 🔨 Featured project
+
+**[The Haunted Castle](https://github.com/GuldenSagymbayeva/haunted-castle)**: turn-based text adventure in Java.
+OOP design, save/continue via seeded replay, 37 JUnit tests including Monte Carlo balance checks, CI and automated releases.
+
+📫 [LinkedIn](https://www.linkedin.com/in/gulden-sagymbayeva)
